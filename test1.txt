@@ -1,1 +1,2 @@
 This is a remote git repository that provides centralized codebase for project teams.
+This is a new statement of this file.
