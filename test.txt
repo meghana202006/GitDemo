@@ -1,2 +1,3 @@
 This a new line inserted locally!
 Hello this is change done in remote repo.
+This is a new statement2.
