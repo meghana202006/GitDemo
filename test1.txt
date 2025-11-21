@@ -3,3 +3,4 @@ This is a new statement of this file.
 This change is from remote repository.This is a new line inserted locally!
 Editing the file for testing git pull command.
 Git push is used upload changes from local to remote repo.
+New Feature added.
