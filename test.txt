@@ -2,4 +2,4 @@ This a new line inserted locally!
 Hello this is change done in remote repo.
 This is a new statement2.
 This is to test git push command by adding new statement.
-
+Practice makes man perfect.
